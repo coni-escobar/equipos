@@ -1,3 +1,5 @@
+#https://github.com/coni-escobar/equipos.git
+
 import csv
 lista=[]
 
